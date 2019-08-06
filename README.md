@@ -6,10 +6,10 @@ A project that predicts whether a person is suffering from heart disease or not.
 Machine Learning
 
 ## LIBRARY USED-
-Pandas
-numpy
-Matplotlib
-rcParams
-Rainbow
-Sklearn
+Pandas,
+numpy,
+Matplotlib,
+rcParams,
+Rainbow,
+Sklearn,
 
