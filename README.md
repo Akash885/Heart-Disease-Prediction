@@ -3,13 +3,13 @@
 A project that predicts whether a person is suffering from heart disease or not.
 
 ## LANGUAGE USED-
-Machine Learning
+MACHINE LEARNING
 
 ## LIBRARY USED-
-Pandas,
-numpy,
-Matplotlib,
-rcParams,
-Rainbow,
-Sklearn,
+PANDAS,
+NUMPY,
+MATPLOTLIB,
+RCPARAMS,
+RAINBOW,
+SKLEARN,
 
